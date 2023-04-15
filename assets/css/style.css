@@ -1,0 +1,50 @@
+@font-face {
+    font-family: 'Poppins';
+    src: url(../fonts/Poppins/Poppins-Thin.ttf);
+    font-style: normal;
+    font-weight: 100;
+}
+
+@font-face {
+    font-family: 'Poppins';
+    src: url(../fonts/Poppins/Poppins-ThinItalic.ttf);
+    font-style: italic;
+    font-weight: 100;
+}
+
+/* 
+    ......
+*/
+
+@font-face {
+    font-family: 'Poppins';
+    src: url(../fonts/Poppins/Poppins-Medium.ttf);
+    font-style: normal;
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: 'Poppins';
+    src: url(../fonts/Poppins/Poppins-MediumItalic.ttf);
+    font-style: italic;
+    font-weight: 400;
+}
+
+.font-cursive {
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+}
+
+.font-bold {
+    font-weight: 900;
+}
+
+.text-24px {
+    font-size: 24px;
+    line-height: 1.2em;
+}
+
+.font-poppins {
+    font-family: Poppins, cursive;
+    font-weight: 200;
+}
